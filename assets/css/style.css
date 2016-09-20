@@ -457,8 +457,15 @@ i.fa.white_section {
 }
 .rooms_margin_custom_1 {
   margin-top: 35px !important;
-  margin-bottom: 35px !important;
+  margin-bottom: 60px !important;
+  padding-bottom: 30px;
+  border-bottom: 1px gray dotted;
 }
+
+#roomdescription {
+  text-align: center;
+}
+
 @media (max-width: 991px) {
   .small_screen_margin_top_half {
     margin-top: 24px !important;
@@ -3229,7 +3236,14 @@ section[class*="_section"] .white_section,
 section[class*="_section"] div[class*="_section"] .white_section {
   background-color: white;
   color: #323232;
+
 }
+
+.white_section_main {
+
+padding-top: 200px;
+}
+
 .white_section a:link,
 .main .white_section a:link,
 div[class*="_section"] .white_section a:link,
@@ -4967,7 +4981,6 @@ ul.pagination li a:first-child {
   z-index: 999;
 }
 .room_bg_dark {
-  background-color: #171720;
   position: relative;
   margin: 0px  0px 0px 0px;
 }
@@ -6260,9 +6273,13 @@ Room Single
   padding-left: 35px;
 }
 
+.room_reviews img {
+margin-bottom: 80px;
+}
+
 .room_reviews h2 {
   font-weight: 700;
-  margin: 48px 0;
+  margin: 15px 0;
 }
 .room_reviews h4 {
   margin-bottom: 17px;
@@ -9373,3 +9390,27 @@ a.symbol:before {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
 }
 
+/* FONTAWESOME */
+
+.fa-ul li {
+text-align: center;
+display: inline-block;
+padding-right: 20px;
+}
+
+
+.room_single_bg_light h2 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#offer:hover {
+color: green;
+
+}
+
+
+.banner_section {
+background-color: black;
+
+}
