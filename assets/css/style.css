@@ -9406,11 +9406,10 @@ padding-right: 20px;
 
 #offer:hover {
 color: green;
+}
+
+.border_top {
+border-top: 1px #d3d3d3 solid;
 
 }
 
-
-.banner_section {
-background-color: black;
-
-}
