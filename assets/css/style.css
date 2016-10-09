@@ -460,6 +460,7 @@ i.fa.white_section {
   margin-bottom: 60px !important;
   padding-bottom: 30px;
   border-bottom: 1px gray dotted;
+  text-align: center;
 }
 
 #roomdescription {
