@@ -5021,7 +5021,7 @@ ul.pagination li a:first-child {
   background-color: rgba(255, 255, 255, 0.5);
   position: relative;
   margin: 24px  0px 0px 0px;
-  padding: 24px 10px 24px 10px;
+  padding: 5px 5px 5px 5px;
 }
 .room_single_bg_light.no_margin_top {
   margin-top: 0 0 0 0;
