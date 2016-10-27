@@ -59,8 +59,8 @@ $themeConfig["CONTACT_FORMS"] = array
    */
 
    "ENABLE_GMAIL"   => true,                     // TO USE GMAIL EMAIL SERVER SET VALUE TO: true
-   "GMAIL_USERNAME" => "youremail@gmail.com",
-   "GMAIL_PASSWORD" => "password",
+   "GMAIL_USERNAME" => "alessandro@nordicbalance.co.uk",
+   "GMAIL_PASSWORD" => "Nordic*01!",
 
    /* USE YAHOO SMTP SERVER */
 
